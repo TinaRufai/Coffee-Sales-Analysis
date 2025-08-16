@@ -3,7 +3,8 @@
 ## 📌 Overview  
 This project analyzes coffee shop sales data to uncover sales trends, best and worst-performing products, and key revenue drivers. The interactive dashboard provides insights to help optimize product offerings, manage inventory, and improve sales strategies.  
 
-## Live Project https://1drv.ms/x/c/616d4bfebeed1267/EdW_JQ11egFDs9V-52ctaJ4B9PQPj4SWxgIfeZmxUpsm0A?e=DQFtxy
+## 📌 Live Project  
+https://1drv.ms/x/c/616d4bfebeed1267/EdW_JQ11egFDs9V-52ctaJ4B9PQPj4SWxgIfeZmxUpsm0A?e=DQFtxy
 
 ## 📌 Purpose
 
