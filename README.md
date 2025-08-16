@@ -1,10 +1,17 @@
 # ☕ Coffee Shop Sales Analysis  
 
-<img width="974" height="564" alt="Screenshot 2025-08-11 123533" src="https://github.com/user-attachments/assets/bd2f2d2e-1bb5-4789-8d49-949796e1d0b6" />
-
-
 ## 📌 Overview  
 This project analyzes coffee shop sales data to uncover sales trends, best and worst-performing products, and key revenue drivers. The interactive dashboard provides insights to help optimize product offerings, manage inventory, and improve sales strategies.  
+
+## 📌 Purpose
+
+The purpose of this project is to deliver actionable insights from coffee shop sales data using a clean, professional dashboard. It enables stakeholders to:
+
+- Track total revenue and average unit prices
+- Monitor sales trends by day of the week
+- Identify best- and worst-performing products
+- Compare product performance based on revenue and units sold
+- Analyze performance across store locations
 
 ## 🔍 Key Insights  
 - **Total Revenue:** $698,812  
@@ -24,7 +31,12 @@ This project analyzes coffee shop sales data to uncover sales trends, best and w
 ## 🛠 Tools & Skills Used  
 - **Microsoft Excel** – Data cleaning, analysis, and dashboard creation  
 - **Data Visualization** – Line charts, bar charts, and interactive slicers  
-- **Analytical Skills** – Trend identification, product performance analysis  
+- **Analytical Skills** – Trend identification, product performance analysis
+
+## Dashboard Review
+
+<img width="974" height="564" alt="Screenshot 2025-08-11 123533" src="https://github.com/user-attachments/assets/bd2f2d2e-1bb5-4789-8d49-949796e1d0b6" />
+
 
 ## 💡 Recommendations  
 1. Increase promotions for best-selling products during low-sales days to balance revenue.  
